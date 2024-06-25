@@ -1,3 +1,4 @@
 ## We are Yey Algorithm ✌️
 
-https://yeyalgorithm.com
+- company site: https://yeyalgorithm.com
+- privacy policy: https://github.com/yeyinc/privacy-policy
